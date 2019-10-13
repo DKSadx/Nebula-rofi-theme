@@ -1,9 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Generic badge](https://img.shields.io/badge/Theme%20for-rofi-4943ff.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Theme%20for-rofi-4943ff.svg)](https://github.com/davatorium/rofi)
 
 # Nebula theme for rofi
 
-![Nebula](./nebula-rofi.png)
+<!-- ![Nebula](./nebula-rofi.png) -->
+<img src="./nebula-rofi.png" alt="Nebula" width="700" />
 
 ## Installation:
 
